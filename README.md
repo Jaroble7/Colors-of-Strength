@@ -8,7 +8,7 @@ This project was built to demonstrate skills in HTML5, CSS3, and responsive desi
 
 How to Use:
 
-Visit the live site here: [GitHub Pages Link](https://your-username.github.io/colors-of-strength)
+Visit the live site here: [GitHub Pages Link](https://Jaroble7.github.io/colors-of-strength)
 
 You can navigate the homepage, learn about the program on the services page, and use the contact form to get in touch.
 
